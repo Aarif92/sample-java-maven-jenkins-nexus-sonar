@@ -16,7 +16,14 @@
       <password>admin123</password>
     </server>
   </servers>
-
+   <mirrors>
+    <mirror>
+      <id>mav</id>
+      <name>repo</name>
+      <url>http://18.225.36.134:8081/repository/maven1-snap/</url>
+      <mirrorOf>*</mirrorOf>
+    </mirror>
+  </mirrors>
   
 
 </settings>
