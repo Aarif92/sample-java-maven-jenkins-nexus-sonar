@@ -11,7 +11,7 @@
     </server>
 
     <server>
-      <id>snapshots</id>
+      <id>mav</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
