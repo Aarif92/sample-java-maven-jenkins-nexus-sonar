@@ -33,9 +33,9 @@
   </build>
   <distributionManagement>
     <snapshotrepository>
-      <id>mav</id>
-      <name>Internal Release</name>
-      <url>http://18.225.36.134:8081/repository/maven1-snap/</url>
+       <id>mav</id>
+       <name>Internal Release</name>
+       <url>http://18.225.36.134:8081/repository/maven1-snap/</url>
     </snapshotrepository>
   </distributionManagement>
   
